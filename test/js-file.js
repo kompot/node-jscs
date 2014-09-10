@@ -1,5 +1,5 @@
 var assert = require('assert');
-var esprima = require('esprima');
+var esprima = require('esprima-fb');
 var JsFile = require('../lib/js-file');
 
 describe('modules/js-file', function() {
